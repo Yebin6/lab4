@@ -1,1 +1,1 @@
-# lab4
+Name: Yebin Shin, Written: 9.25.24, Updated: 10.3.24, Library: <msp430.h> Using the code, LED indicators will moniter monitor temperature levels and suggest cooling down. When the temperature goes over a certain level, the red LED will turn on, showing that the cooler should be on. When the temperature goes under a certain level, the green one will turn on, showing that the cooler should be off.
